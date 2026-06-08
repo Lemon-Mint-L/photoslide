@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">photoslide</string>
+    
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="delete">删除</string>
+    <string name="keep">保留</string>
+    <string name="favorite">收藏</string>
+    <string name="loading">加载中...</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="retry">重试</string>
+    
+    <!-- 首页 -->
+    <string name="home_title">photoslide</string>
+    <string name="home_subtitle">照片清理</string>
+    <string name="photo_counter">照片 %1$d / %2$d</string>
+    <string name="photo_size">%1$s MB</string>
+    <string name="delete_photo">删除照片</string>
+    <string name="keep_photo">保留照片</string>
+    <string name="favorite_photo">收藏照片</string>
+    <string name="undo">撤销</string>
+    <string name="confirm_delete">确认删除</string>
+    <string name="confirm_delete_message">确定要删除这张照片吗？</string>
+    
+    <!-- AI扫描 -->
+    <string name="ai_scan_title">AI智能扫描</string>
+    <string name="ai_scan_complete">✨ 扫描完成</string>
+    <string name="ai_scanning">正在扫描...</string>
+    <string name="blur_photos">模糊照片</string>
+    <string name="blur_photos_count">发现 %1$d 张</string>
+    <string name="duplicate_photos">重复照片</string>
+    <string name="duplicate_photos_count">发现 %1$d 组</string>
+    <string name="screenshots">截图</string>
+    <string name="screenshots_count">发现 %1$d 张</string>
+    <string name="best_shots">最佳照片</string>
+    <string name="best_shots_count">已选出 %1$d 张</string>
+    <string name="view_details">查看详情</string>
+    <string name="scan_progress">扫描进度 %1$d%%</string>
+    
+    <!-- 相册 -->
+    <string name="album_title">相册管理</string>
+    <string name="all_photos">所有照片</string>
+    <string name="favorites">收藏</string>
+    <string name="camera">相机</string>
+    <string name="download">下载</string>
+    <string name="photo_count">%1$d 张</string>
+    
+    <!-- 分析 -->
+    <string name="analysis_title">存储分析</string>
+    <string name="analysis_subtitle">照片占用空间分析</string>
+    <string name="total_photos">总照片数</string>
+    <string name="total_photos_desc">所有照片</string>
+    <string name="photo_storage">照片占用</string>
+    <string name="photo_storage_desc">照片和视频</string>
+    <string name="potential_savings">可释放空间</string>
+    <string name="potential_savings_desc">建议清理</string>
+    <string name="duplicate_storage">重复照片</string>
+    <string name="screenshot_storage">截图</string>
+    <string name="storage_usage">存储使用情况</string>
+    <string name="cleaning_streak">连续清理记录</string>
+    <string name="streak_days">连续天数</string>
+    <string name="photos_cleaned">已清理照片</string>
+    <string name="space_freed">已释放空间</string>
+    
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="dark_mode_desc">切换深色/浅色主题</string>
+    <string name="notifications">通知设置</string>
+    <string name="notifications_desc">清理提醒和通知</string>
+    <string name="auto_delete">自动删除</string>
+    <string name="auto_delete_desc">30天后自动删除标记的照片</string>
+    <string name="language">语言设置</string>
+    <string name="language_desc">简体中文</string>
+    <string name="storage_path">存储路径</string>
+    <string name="storage_path_desc">内部存储</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="privacy_policy_desc">查看隐私政策</string>
+    <string name="about">关于我们</string>
+    <string name="about_desc">版本 %1$s</string>
+    <string name="rate_app">给个好评</string>
+    <string name="rate_app_desc">如果您喜欢这个应用</string>
+    <string name="app_description">智能照片清理应用</string>
+    <string name="app_features">完全中文支持 · 完全免费 · 隐私保护</string>
+    
+    <!-- 对比模式 -->
+    <string name="compare_title">对比模式</string>
+    <string name="compare_subtitle">%1$d / %2$d 相似照片</string>
+    <string name="best">最佳</string>
+    <string name="blurry">模糊</string>
+    <string name="delete_left">删除左边</string>
+    <string name="keep_right">保留右边</string>
+    <string name="thumbnails">缩略图</string>
+    <string name="quality_score">质量评分</string>
+    <string name="blur_score">模糊度: %1$d%%</string>
+    <string name="clarity_score">清晰度: %1$d%%</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_name">照片清理提醒</string>
+    <string name="notification_channel_desc">每日照片清理提醒</string>
+    <string name="notification_title">该清理照片了</string>
+    <string name="notification_message">您已经 %1$d 天没有清理照片了</string>
+    
+    <!-- 权限 -->
+    <string name="permission_required">需要权限</string>
+    <string name="permission_storage">需要存储权限来访问您的照片</string>
+    <string name="permission_grant">授予权限</string>
+    <string name="permission_deny">拒绝</string>
+</resources>
